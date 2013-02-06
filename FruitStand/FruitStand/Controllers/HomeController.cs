@@ -10,7 +10,7 @@ namespace FruitStand.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "This is a modification";
+            ViewBag.Message = "Matt is the coolest";
 
             return View();
         }
